@@ -6,6 +6,7 @@
 //  Copyright © 2020 SoftArts.cc. All rights reserved.
 //
 
+
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
@@ -22,6 +23,8 @@
 - (void)applicationWillTerminate:(NSNotification *)aNotification {
   // Insert code here to tear down your application
   NSLog(@"xxxxxxx");
+  NSLog(@"OOOOOO");
+  NSLog(@"OOOOOO");
 }
 
 

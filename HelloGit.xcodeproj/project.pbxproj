@@ -12,6 +12,7 @@
 		CB11DC4D23FBC4DE00E68833 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB11DC4C23FBC4DE00E68833 /* Assets.xcassets */; };
 		CB11DC5023FBC4DE00E68833 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB11DC4E23FBC4DE00E68833 /* Main.storyboard */; };
 		CB11DC5323FBC4DE00E68833 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CB11DC5223FBC4DE00E68833 /* main.m */; };
+		CB11DC5C23FBC50A00E68833 /* TestObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CB11DC5B23FBC50A00E68833 /* TestObject.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,8 @@
 		CB11DC5123FBC4DE00E68833 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB11DC5223FBC4DE00E68833 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CB11DC5423FBC4DE00E68833 /* HelloGit.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = HelloGit.entitlements; sourceTree = "<group>"; };
+		CB11DC5A23FBC50A00E68833 /* TestObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestObject.h; sourceTree = "<group>"; };
+		CB11DC5B23FBC50A00E68833 /* TestObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestObject.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +64,8 @@
 				CB11DC4723FBC4DD00E68833 /* AppDelegate.m */,
 				CB11DC4923FBC4DD00E68833 /* ViewController.h */,
 				CB11DC4A23FBC4DD00E68833 /* ViewController.m */,
+				CB11DC5A23FBC50A00E68833 /* TestObject.h */,
+				CB11DC5B23FBC50A00E68833 /* TestObject.m */,
 				CB11DC4C23FBC4DE00E68833 /* Assets.xcassets */,
 				CB11DC4E23FBC4DE00E68833 /* Main.storyboard */,
 				CB11DC5123FBC4DE00E68833 /* Info.plist */,
@@ -141,6 +146,7 @@
 			files = (
 				CB11DC4B23FBC4DD00E68833 /* ViewController.m in Sources */,
 				CB11DC5323FBC4DE00E68833 /* main.m in Sources */,
+				CB11DC5C23FBC50A00E68833 /* TestObject.m in Sources */,
 				CB11DC4823FBC4DD00E68833 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
