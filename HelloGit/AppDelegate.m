@@ -8,7 +8,7 @@
 
 
 #import "AppDelegate.h"
-
+// Add 2.0 function.....
 @interface AppDelegate ()
 
 @end
