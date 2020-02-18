@@ -12,7 +12,7 @@
 @interface AppDelegate ()
 
 @end
-
+// Modify 1.0.
 @implementation AppDelegate
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
