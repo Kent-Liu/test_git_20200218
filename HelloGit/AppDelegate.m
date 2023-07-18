@@ -11,6 +11,9 @@
 // Add 2.0 function.....
 @interface AppDelegate ()
 
+// abc
+// def
+
 @end
 // Modify 1.0.
 @implementation AppDelegate
