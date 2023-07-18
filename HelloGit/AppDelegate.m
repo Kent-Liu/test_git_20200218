@@ -34,7 +34,5 @@
   NSLog(@"OOOOOO");
 }
 
-// Discard test2
-
 
 @end
